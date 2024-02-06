@@ -22,7 +22,9 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Features
 - Rental Homes and For-Sale Properties: UrbanUtopia showcases a diverse range of rental homes and for-sale properties to cater to different user needs.
+  ![](s1.png)
 - Advanced Property Filtering: Users can easily refine their property search using advanced filtering options such as location, type, price range, and amenities.
+- ![](s2.png)
 - Property Details Page with Image Carousel: Each property listing includes a detailed property details page with an image carousel, allowing users to view the property from different angles.
 - Responsive Design: UrbanUtopia features a responsive design that ensures a seamless user experience across various devices and screen sizes.
 
